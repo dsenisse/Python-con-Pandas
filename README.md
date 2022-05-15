@@ -1,4 +1,4 @@
-# Python-test
+# Python
 
 Mediante estos enlaces, podrán encontrar el curso completo de Python y su aplicación con la libreria Panda
 A continuación los items del curso:
